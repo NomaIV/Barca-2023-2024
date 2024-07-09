@@ -2,7 +2,7 @@
 Database program that manages FC Barcelona players minutes played in La Liga for the 2023/2024 season.
 Users can enter, update, delete and search player information in a SQLite database.
 
-Player data can also be visualied in a bar graph using Matplotlib. The bar graph will show the number of minutes played by each player. 
+Player data can also be visualised in a bar graph using Matplotlib. The bar graph will show the number of minutes played by each player. 
 
 ## Technoilogies Used
 - SQL
