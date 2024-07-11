@@ -18,11 +18,11 @@ Player data can also be visualised in a bar graph using Matplotlib. The bar grap
 - Add new playes to database
 - Update player information
 - Delete player information
-- Search the database to find a specific player's infromation
+- Search the database to find a specific player's information
 - Visualise player data in a bar graph
 
 ## Prerequisites
-Before you begin, ensure you have the follwing installed:
+Before you begin, ensure you have the following installed:
 - VSCode
 - SQLite
 - Python
@@ -41,7 +41,7 @@ Before you begin, ensure you have the follwing installed:
    python3 -m venv venv
    source venv/bin/activate # On Windows use `venv\Scripts\activate`
    ```
-4. Install required dependenices:
+4. Install required dependencies:
    ```sh
    pip3 install -r requirements.txt
    ```
