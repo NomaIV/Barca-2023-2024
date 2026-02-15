@@ -87,7 +87,23 @@ This script will create a bar chart showing the minutes played by each player.
 - `requirements.txt`: List of dependencies.
 - `README.md`: Project documentation.
 - `visual.py`: Script for creating bar graph of player data.
-  
+
+## Future Enhancements
+This project represents my foundational work with SQL and Python. I plan to enhance it with:
+
+- Automated Data Population: Replace manual data entry with web scraping (e.g., from La Liga official websites) or API integration (e.g., football-data.org API) to automatically pull player statistics.
+- Additional Visualisation Options: Expand beyond Matplotlib to include interactive dashboards using Plotly or Streamlit, allowing users to filter by position, appearances, or minutes played.
+- Advanced SQL Queries: Add more complex query functionality such as:
+
+   - Average minutes played by position
+   - Players ranked by minutes per appearance
+   - Position-based filtering and analysis
+   - Comparison between players
+
+- Multi-Season Support: Expand the database to include multiple seasons (2022/2023, 2024/2025) to enable trend analysis and year-over-year comparisons.
+- Web Interface: Develop a simple web front-end using Flask or Django to make the application more accessible to non-technical users.
+- Export Functionality: Add the ability to export query results to CSV or Excel for further analysis.
+- Data Validation: Implement more robust input validation and error handling for an improved user experience.
 ## License
 This project is licensed under MIT License
 
